@@ -49,7 +49,7 @@ Contact
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 
 	•	Email: ramprasadgoud34@gmail.com
-	•	X(Twitter):https://x.com/Rampras91070612
+	•	X(Twitter):Rampras91070612
 	•	GitHub: Ramprasad4121
 
 Acknowledgments
