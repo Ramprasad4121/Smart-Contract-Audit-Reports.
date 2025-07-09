@@ -4,7 +4,7 @@ Welcome to my repository of smart contract audit reports. This repository showca
 
 Table of Contents
 
-	1.	Introduction
+	1.	Introduction 
 	2.	Audit Reports
 	3.	Methodology
 	4.	Tools Used
