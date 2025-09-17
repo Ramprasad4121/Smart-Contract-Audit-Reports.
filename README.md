@@ -36,13 +36,6 @@ The following steps outline my typical audit process:
 	4.	Testing: Deploy the smart contract in a test environment and conduct various tests to evaluate its behavior under different scenarios.
 	5.	Reporting: Compile a detailed report that includes the identified vulnerabilities, their severity, potential impact, and recommendations for remediation.
 
-Tools Used
-
-	•	Slither: A static analysis framework for smart contracts.
-	•	Oyente: An analysis tool for finding security vulnerabilities in Ethereum smart contracts.
- 	•	Foundry: A blazing fast, portable, and modular toolkit for Ethereum application development written in Rust.
-	•	Remix IDE: An online tool for writing, testing, and debugging smart contracts.
-	•	Ganache: A personal blockchain for Ethereum development used to deploy contracts, develop applications, and run tests.
 
 Contact
 
