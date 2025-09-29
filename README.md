@@ -19,12 +19,6 @@ Audit Reports:
 
 Each folder in this repository contains the audit report for a specific smart contract. The reports include a detailed analysis of the contract, the vulnerabilities found, and recommendations for remediation.
 
-Available Reports:
-
-	1.	Passwordstore-report.pdf
-	2.	PuppyRaffle-report.pdf
-	3.	T-SWAP-Report.pdf
-	4.	Thunder_Loan_Report.pdf
 
 Methodology
 
